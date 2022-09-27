@@ -1,0 +1,3 @@
+- Install packages: `pip install -r requirements.txt`
+- Input: `document.txt`
+- Output: `entities.txt`
